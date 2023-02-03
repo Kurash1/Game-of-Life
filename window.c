@@ -1,7 +1,6 @@
 #include <windows.h>
 #include <tchar.h>
 #include <stdbool.h>
-#include <stdio.h>
 
 // Window dimensions
 #define WIDTH 1800
